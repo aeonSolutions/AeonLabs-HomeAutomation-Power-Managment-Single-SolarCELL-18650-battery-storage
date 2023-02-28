@@ -23,7 +23,6 @@ A breif view of the original specifications:
 -  PCB asssembly in series made with a 10 pin pin header/ socket. For "plug and play" type of instalations
 
 
-![](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale/blob/main/innotechWieghtScaleAd.jpg)
 
 ## PCB
 ![](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale/blob/main/designs/pcb_with_lcd.jfif)
