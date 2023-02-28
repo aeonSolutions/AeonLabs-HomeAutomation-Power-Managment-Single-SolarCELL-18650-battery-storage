@@ -27,7 +27,7 @@ A breif view of the original specifications:
 ## PCB
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/pcb_front.png" width="350">
+<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/pcb_front.png" height="350">
 </p>
 
 ## What one additionally needs
