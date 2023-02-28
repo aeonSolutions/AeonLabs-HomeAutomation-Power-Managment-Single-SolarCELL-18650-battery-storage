@@ -25,7 +25,10 @@ A breif view of the original specifications:
 
 
 ## PCB
-![](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale/blob/main/designs/pcb_with_lcd.jfif)
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/pcb_front.png" width="350">
+</p>
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
