@@ -21,7 +21,7 @@ A breif view of the original specifications:
 - the PCB can be connected in series to form a lenght of solar cell tiles packed together (each with its own single BMS. 
 - Main ON/OFF switch.
 - PCB asssembly in series made with a 10 pin pin header/ socket. For "plug and play" type of instalations
-- Screw terminal to connect main low power 5V Dc line at home/office. 
+- Screw terminal to connect main low power 5V DC line at home/office. 
 
 
 ## PCB
