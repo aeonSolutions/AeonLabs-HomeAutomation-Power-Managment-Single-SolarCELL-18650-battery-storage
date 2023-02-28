@@ -13,6 +13,7 @@
 # Single Solar Cell with a 18650 Battery Storage
 This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V)  with dimensions 124x124mm. This PCB features a single 18650 Battery management system intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For insatnce [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
 
+When connected in series and installed on several windows and networked, can power off the grid a 4.2V LED illumination on all rooms and compartments at a home or office. 
 
 <p align="center">
 <a href="https://s.click.aliexpress.com/e/_DCnJW0V">
@@ -21,7 +22,7 @@ This is a simple PCB for a direct fit on commercially available [blue solar cell
 </p>
 
 
-A breif view of the original specifications:
+A breif view of specifications:
 
 - 1x 18650 LiPo battery management system
 - the PCB can be connected in series to form a lenght of solar cell tiles packed together (each with its own single BMS. 
