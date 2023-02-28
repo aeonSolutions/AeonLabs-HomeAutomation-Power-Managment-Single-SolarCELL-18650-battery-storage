@@ -1,2 +1,1 @@
-# AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage
-AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage
+# Single Solar Cell with a 18650 Battery Storage
