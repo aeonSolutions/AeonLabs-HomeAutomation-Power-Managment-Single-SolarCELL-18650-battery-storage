@@ -14,6 +14,10 @@
 This is a simple PCB for a direct fit on commercially availabble blue solar cell tiles with dimensions 124x124mm. This pcb features a single 18650 Battery management system and is intended for indoor useage. In particular to be installed on the top or down side of glass transparent windows at a home or office.  This PCB when assembled with a blue solar cell tile can be used to power a low voltage 4.2V indoors illumination network using ultra low power micro LED strips. For insatnce [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
 
 
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/pcb_front.png" height="350">
+</p>
+
 
 A breif view of the original specifications:
 
