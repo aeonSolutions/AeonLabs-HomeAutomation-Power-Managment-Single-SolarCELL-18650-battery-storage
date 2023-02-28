@@ -47,14 +47,15 @@ waiting to be tested. Stay tuned for updates.
 <br>
 
 ## What one additionally needs
--  home tools and double sided tape
--   [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V)
--   [ultra-low power micro LED strips](https://s.click.aliexpress.com/e/_DCKg9xJ) 
--   [ultra-low power  LED Cob strips](https://s.click.aliexpress.com/e/_DnqkC4N)
--   [Nylon Guide for Electric Cable](https://s.click.aliexpress.com/e/_DBc1oVX)
--   [NCR18650B 3.7V 3400 mah 18650 Lithium](https://s.click.aliexpress.com/e/_DCh1sw1)
--   [Low power electrical wire](https://s.click.aliexpress.com/e/_DB1T3eN)
--   [16A Electrical Plug Wall Socket 110~250V Dual USB 2000mA Port](https://s.click.aliexpress.com/e/_DlVz3sh)
+-  home tools
+-  [transparent double sided tape](https://s.click.aliexpress.com/e/_DDJxMmD)
+-  [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V)
+-  [ultra-low power micro LED strips](https://s.click.aliexpress.com/e/_DCKg9xJ) 
+-  [ultra-low power  LED Cob strips](https://s.click.aliexpress.com/e/_DnqkC4N)
+-  [Nylon Guide for Electric Cable](https://s.click.aliexpress.com/e/_DBc1oVX)
+-  [NCR18650B 3.7V 3400 mah 18650 Lithium](https://s.click.aliexpress.com/e/_DCh1sw1)
+-  [Low power electrical wire](https://s.click.aliexpress.com/e/_DB1T3eN)
+-  [16A Electrical Plug Wall Socket 110~250V Dual USB 2000mA Port](https://s.click.aliexpress.com/e/_DlVz3sh)
 
 <br />
 <br />
