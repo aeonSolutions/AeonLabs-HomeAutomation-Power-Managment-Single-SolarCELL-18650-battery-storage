@@ -43,6 +43,8 @@ waiting to be tested. Stay tuned for updates.
 <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/pcb_front.png" height="350">
 </p>
 
+<br>
+
 ## What one additionally needs
 -  home tools and double sided tape.
 <br />
