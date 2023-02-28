@@ -16,7 +16,7 @@ This is a simple PCB for a direct fit on commercially availabble [blue solar cel
 
 <p align="center">
 <a href="https://s.click.aliexpress.com/e/_DCnJW0V">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/blue%20solar%20tiles.jpg" height="350">
+<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/blue%20solar%20tiles.png" height="350">
 </a>
 </p>
 
