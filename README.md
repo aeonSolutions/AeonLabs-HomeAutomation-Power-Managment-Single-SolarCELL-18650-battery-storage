@@ -29,6 +29,13 @@ A breif view of the original specifications:
 - PCB asssembly in series made with a 10 pin pin header/ socket. For "plug and play" type of instalations
 - Screw terminal to connect main low power 5V DC line at home/office. 
 
+<br>
+
+**Status**
+
+waiting to be tested. Stay tuned for updates.
+
+<br>
 
 ## PCB
 
