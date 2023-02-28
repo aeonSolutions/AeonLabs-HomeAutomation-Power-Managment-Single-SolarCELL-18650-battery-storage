@@ -56,6 +56,9 @@ waiting to be tested. Stay tuned for updates.
 -  [NCR18650B 3.7V 3400 mah 18650 Lithium](https://s.click.aliexpress.com/e/_DCh1sw1)
 -  [Low power electrical wire](https://s.click.aliexpress.com/e/_DB1T3eN)
 -  [16A Electrical Plug Wall Socket 110~250V Dual USB 2000mA Port](https://s.click.aliexpress.com/e/_DlVz3sh)
+-  [Soldering iron](https://s.click.aliexpress.com/e/_DnDN8x3)
+-  [Solder](https://s.click.aliexpress.com/e/_DlXtKMN)
+-  
 
 <br />
 <br />
