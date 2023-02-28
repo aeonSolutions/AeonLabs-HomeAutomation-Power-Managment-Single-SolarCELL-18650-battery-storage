@@ -58,7 +58,6 @@ waiting to be tested. Stay tuned for updates.
 -  [16A Electrical Plug Wall Socket 110~250V Dual USB 2000mA Port](https://s.click.aliexpress.com/e/_DlVz3sh)
 -  [Soldering iron](https://s.click.aliexpress.com/e/_DnDN8x3)
 -  [Solder](https://s.click.aliexpress.com/e/_DlXtKMN)
--  
 
 <br />
 <br />
