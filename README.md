@@ -44,7 +44,7 @@ waiting to be tested. Stay tuned for updates.
 </p>
 
 ## What one additionally needs
-- [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+-  home tools and double sided tape.
 <br />
 <br />
 
