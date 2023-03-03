@@ -15,6 +15,8 @@ This is a simple PCB for a direct fit on commercially available [blue solar cell
 
 When connected in series and installed on several windows and networked, can power off the grid a 4.2V LED illumination on all rooms and compartments at a home or office. During evenings and at night until bedtime. If one intends to use it to power indoors LED illumination during the day is required a High Capacity Power Bank connected to all first tiles of all the series. For instance this [power bank](https://s.click.aliexpress.com/e/_Ddl7nsh) here. 
 
+One important take way about this prototype project is in the ability to be installed on any traditional apartment or home in a big city, requiring  124mm of window glass estate, at the top or at the bottom. And it can connect to existing home automation network or systems. 
+
 <p align="center">
 <a href="https://s.click.aliexpress.com/e/_DCnJW0V">
 <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/blue%20solar%20tiles.png" height="350">
