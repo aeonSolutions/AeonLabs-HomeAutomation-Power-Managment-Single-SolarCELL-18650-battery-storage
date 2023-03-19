@@ -19,7 +19,7 @@ One important take way about this prototype project is in the ability to be inst
 
 <p align="center">
 <a href="https://s.click.aliexpress.com/e/_DCnJW0V">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/blue%20solar%20tiles.png" height="350">
+<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/Designs/back%20solar%20tile.png" height="350">
 </a>
 </p>
 
