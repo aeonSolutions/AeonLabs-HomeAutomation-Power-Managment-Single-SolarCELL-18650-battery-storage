@@ -36,7 +36,7 @@ A breif view of specifications:
 
 **Status**
 
-waiting to be tested. Stay tuned for updates.
+This PCB electronics is now fully tested and working when connected to a 5V solar tile and is able to charge a 4.2V LiPo battery. Mind you, this is the simplest electronics, with a restriction, one of being only useful for 24H energy storage (LiPo), meaning this electronics is only capable of managing the solar electricity collected during the day, to run during evenings and also at night until the battery is depleted. Therefore is suited for indoor LED illumination and even suited to power small smart electronics/devices. 
 
 <br>
 
