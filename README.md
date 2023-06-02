@@ -20,7 +20,7 @@ This is a simple PCB for a direct fit on commercially available 4V to 6V [black 
 
 When connected in series and installed on several windows and networked, can power off the grid a 4.2V LED illumination on all rooms and compartments at a home or office. During evenings and at night until bedtime. If one intends to use it to power indoors LED illumination during the day is required a High Capacity Power Bank connected to all first tiles of all the series. For instance this [power bank](https://s.click.aliexpress.com/e/_Ddl7nsh) here. 
 
-One important takeway about this prototype project is the ability to be installed on any traditional apartment or home in a big city, requiring  124mm of window glass estate, at the top or at the bottom. And it can connect to existing home automation network or systems. 
+One important takeway about this prototype project is the ability to be installed on any traditional apartment or home in a big city, requiring  124mm of window glass estate, at the top or at the bottom. And it can connect to existing home automation network or systems. If you prefer can read this project on Autodesk's Intructables.com, [here](https://www.instructables.com/Single-Solar-Cell-With-One-18650-Battery-Storage/).
 
 <p align="center">
 <a href="https://s.click.aliexpress.com/e/_DCnJW0V">
