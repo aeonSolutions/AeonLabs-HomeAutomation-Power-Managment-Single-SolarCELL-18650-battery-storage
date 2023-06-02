@@ -1,0 +1,25 @@
+Drill report for Solar Cell offgrid Power.kicad_pcb
+Created on 2/28/2023 7:32:49 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Solar Cell offgrid Power-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (1 hole)
+    T2  1.000mm  0.0394"  (20 holes)
+    T3  1.100mm  0.0433"  (2 holes)
+
+    Total plated holes count 23
+
+
+Drill file 'Solar Cell offgrid Power-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.100mm  0.0433"  (2 holes)
+
+    Total unplated holes count 2
