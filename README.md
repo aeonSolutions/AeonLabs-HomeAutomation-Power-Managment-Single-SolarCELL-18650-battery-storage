@@ -13,7 +13,10 @@
 </a>
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale.svg)
 
-<br />
+<p align="right">
+ <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
+Last update: 01-12-2023
+</p>
 
 # Single Solar Cell with one 18650 Battery Storage
 This is a simple PCB for a direct fit on commercially available 4V to 6V [black solar cell tiles](https://s.click.aliexpress.com/e/_DCSwB9L)  with dimensions up to 124mm wide. This PCB features a single 18650 Battery management system intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For instance [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
